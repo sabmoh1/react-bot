@@ -1,0 +1,42 @@
+# ============================================================
+# Tokens.txt
+# ============================================================
+# التوكنات توضع هنا فقط.
+# rect.py لا يحتوي أي Bot Token.
+#
+# هذه هي التوكنات التجريبية التي أرسلتها في المحادثة.
+# إذا كانت أي واحدة منها حقيقية وليست تجريبية، ألغها من BotFather.
+# ============================================================
+
+[❤]
+8945717360:AAFpQ3oykI48yVelUf-85X-N1sjaUys_i_k
+8943370981:AAHT0BddNfjlqWHQ2pwuFb9KNYhWDtACBHI
+
+[🔥]
+8926385939:AAHMawSkuha-k5JW2RZJyRqfqsjgjkmT9Tc
+8782109243:AAGCu1nmZVexS64AlQKPP_thwoaJecCWA-E
+
+[😁]
+8926658487:AAHTCjDBxFHikzeYXwOp-PdQlGzJC0f5qJg
+
+[😍]
+8992491573:AAEsFvxn_ZoQP8GP2pnVX1gHOkslzbKEmVo
+8906718519:AAH5Z5dJc0dycrlxdhS0FEGtT4APOcHP0_0
+8708349012:AAFuVHu3XdgChwwL5aSRki6P24bv_jkhPMc
+
+[😢]
+8394462229:AAHvMH5t6j1RcL1u4NR5WvIruNQ6mSKIAvs
+
+[👍]
+8622690803:AAHa98iJ7u4FN3LXV0xXaQBFfSX3OR8qEqo
+
+[👏]
+8971749508:AAGvrQAPE28E6oV1twinQ325a5B4JPvW_nk
+
+[🎉]
+8586071808:AAFHSxzwMT6tiKoiMuiZv2e1KLP1HZmR7x4
+
+[🤩]
+8696580750:AAFK1fDiJWAunaIBEMqkrrSZUM1jt1AY858
+
+[😎]
